@@ -1,0 +1,111 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "theme": "mint",
+  "name": "Mallu CIty Rule Book",
+  "colors": {
+    "primary": "#00ff81",
+    "light": "#51ffa8",
+    "dark": "#000000"
+  },
+  "favicon": {
+    "light": "/favicon.svg",
+    "dark": "/images/favicon.ico"
+  },
+  "navigation": {
+    "pages": [
+      {
+        "group": "Getting Started",
+        "pages": [
+          "index",
+          "quickstart"
+        ]
+      }
+    ],
+    "groups": [
+      {
+        "group": "Getting Started",
+        "pages": [
+          "welcome"
+        ]
+      },
+      {
+        "group": "Rules",
+        "icon": "book-open-lines",
+        "pages": [
+          "community-rules",
+          "basic-rp-rules"
+        ]
+      },
+      {
+        "group": "MCRP Specific Rule",
+        "icon": "books",
+        "pages": [
+          "roleplay-rules"
+        ]
+      },
+      {
+        "group": "FIVEM & BUG'S",
+        "pages": [
+          "common-five-m-issues"
+        ],
+        "icon": "tools"
+      },
+      {
+        "group": "Gang Rules",
+        "icon": "skull",
+        "pages": [
+          "general-rules",
+          "gang-rules",
+          "gang-situation-rule",
+          "gang-war"
+        ]
+      }
+    ]
+  },
+  "logo": {
+    "light": "/images/MCRP_NAV_DARK.svg",
+    "dark": "/images/MCRP_NAV_DARK.svg"
+  },
+  "navbar": {
+    "links": [],
+    "primary": {
+      "type": "button",
+      "label": "Dashboard",
+      "href": "https://app.mintlify.com"
+    }
+  },
+  "contextual": {
+    "options": [
+      "copy",
+      "view",
+      "chatgpt",
+      "claude",
+      "perplexity",
+      "mcp",
+      "cursor",
+      "vscode"
+    ]
+  },
+  "thumbnails": {
+    "background": "/images/MCRP_GTC.png"
+  },
+  "footer": {
+    "socials": {
+      "discord": "https://discord.gg/mallu-city-roleplay-940552155520204820",
+      "instagram": "https://www.instagram.com/mallucityroleplay?igshid=YTQwZjQ0NmI0OA==",
+      "youtube": "https://www.youtube.com/@mallucityroleplay"
+    }
+  },
+  "icons": {
+    "library": "fontawesome"
+  },
+  "background": {
+    "color": {
+      "light": "#000000",
+      "dark": "#000000"
+    }
+  },
+  "fonts": {
+    "family": "Inter"
+  }
+}
