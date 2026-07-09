@@ -64,7 +64,8 @@
   },
   "logo": {
     "light": "/images/NEW_MCRP.png",
-    "dark": "/images/NEW_MCRP.png"
+    "dark": "/images/NEW_MCRP.png",
+    "href": "https://www.mallucityroleplay.in/#home"
   },
   "navbar": {
     "links": [],
