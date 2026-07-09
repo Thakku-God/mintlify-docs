@@ -25,6 +25,13 @@
       {
         "group": "Getting Started",
         "pages": [
+          "index",
+          "quickstart"
+        ]
+      },
+      {
+        "group": "Getting Started",
+        "pages": [
           "welcome"
         ]
       },
@@ -63,8 +70,8 @@
     ]
   },
   "logo": {
-    "light": "/images/MCRP_NAV_DARK.svg",
-    "dark": "/images/MCRP_NAV_DARK.svg"
+    "light": "/images/NEW_MCRP.png",
+    "dark": "/images/NEW_MCRP.png"
   },
   "navbar": {
     "links": [],
@@ -101,9 +108,10 @@
   },
   "background": {
     "color": {
-      "light": "#000000",
-      "dark": "#000000"
-    }
+      "light": "#f0fcfa",
+      "dark": "#031410"
+    },
+    "decoration": "gradient"
   },
   "fonts": {
     "family": "Inter"
