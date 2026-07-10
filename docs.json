@@ -44,13 +44,6 @@
         ]
       },
       {
-        "group": "FIVEM & BUG'S",
-        "pages": [
-          "common-five-m-issues"
-        ],
-        "icon": "tools"
-      },
-      {
         "group": "Gang Rules",
         "icon": "skull",
         "pages": [
@@ -58,6 +51,13 @@
           "gang-rules",
           "gang-situation-rule",
           "gang-war"
+        ]
+      },
+      {
+        "group": "FIVEM & BUG'S",
+        "icon": "tools",
+        "pages": [
+          "common-five-m-issues"
         ]
       }
     ]
