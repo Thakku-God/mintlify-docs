@@ -80,12 +80,7 @@
     "href": "https://www.mallucityroleplay.in/#home"
   },
   "navbar": {
-    "links": [
-      {
-        "href": "https://discord.gg/naAKjNgGsU",
-        "label": "Discord"
-      }
-    ],
+    "links": [],
     "primary": {
       "type": "button",
       "label": "Dashboard",
@@ -106,7 +101,7 @@
   },
   "footer": {
     "socials": {
-      "discord": "https://discord.gg/mallu-city-roleplay-940552155520204820",
+      "discord": "https://discord.gg/naAKjNgGsU",
       "instagram": "https://www.instagram.com/mallucityroleplay?igshid=YTQwZjQ0NmI0OA==",
       "youtube": "https://www.youtube.com/@mallucityroleplay"
     }
