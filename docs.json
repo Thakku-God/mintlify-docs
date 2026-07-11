@@ -46,7 +46,6 @@
       {
         "group": "Government",
         "icon": "bank",
-        "hidden": true,
         "pages": [
           "court",
           "mcpd",
