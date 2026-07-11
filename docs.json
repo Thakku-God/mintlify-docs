@@ -44,6 +44,16 @@
         ]
       },
       {
+        "group": "Government",
+        "icon": "bank",
+        "hidden": true,
+        "pages": [
+          "court",
+          "mcpd",
+          "mcms"
+        ]
+      },
+      {
         "group": "Gang Rules",
         "icon": "skull",
         "pages": [
