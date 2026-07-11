@@ -118,5 +118,12 @@
   },
   "fonts": {
     "family": "Montserrat"
+  },
+  "seo": {
+    "metatags": {
+      "mcrp": "mallucityroleplay",
+      "rp": "roleplay",
+      "mallu": "malayalam rp"
+    }
   }
 }
