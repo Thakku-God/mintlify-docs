@@ -23,11 +23,12 @@
     ],
     "groups": [
       {
-        "group": "Getting Started",
+        "group": "Mallu City Roleplay",
         "pages": [
           "welcome"
         ],
-        "expanded": true
+        "expanded": true,
+        "icon": "city"
       },
       {
         "group": "Rules",
