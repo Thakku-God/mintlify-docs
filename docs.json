@@ -138,5 +138,8 @@
       "rp": "roleplay",
       "mallu": "malayalam rp"
     }
+  },
+  "thumbnails": {
+    "background": "/images/MCRP_CARD_BACKGROUND.png"
   }
 }
