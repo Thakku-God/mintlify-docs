@@ -77,7 +77,6 @@
       {
         "group": "DONATOR RULES",
         "icon": "cash-app",
-        "hidden": true,
         "pages": [
           "donation-rules",
           "untitled-page",
