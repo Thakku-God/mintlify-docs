@@ -79,7 +79,8 @@
         "icon": "cash-app",
         "hidden": true,
         "pages": [
-          "donation-rules"
+          "donation-rules",
+          "untitled-page"
         ]
       }
     ]
