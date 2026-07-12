@@ -64,7 +64,8 @@
           "general-rules",
           "gang-rules",
           "gang-situation-rule",
-          "gang-war"
+          "gang-war",
+          "gang-assets"
         ]
       },
       {
