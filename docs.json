@@ -73,6 +73,14 @@
         "pages": [
           "common-five-m-issues"
         ]
+      },
+      {
+        "group": "DONATOR RULES",
+        "icon": "cash-app",
+        "hidden": true,
+        "pages": [
+          "donation-rules"
+        ]
       }
     ]
   },
