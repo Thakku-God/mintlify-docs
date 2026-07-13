@@ -54,7 +54,13 @@
         "pages": [
           "court",
           "mcpd",
-          "mcms"
+          "mcms",
+          {
+            "group": "MC Bros",
+            "icon": "user-friends",
+            "hidden": true,
+            "pages": []
+          }
         ]
       },
       {
