@@ -52,15 +52,15 @@
         "group": "Government",
         "icon": "bank",
         "pages": [
-          "court",
-          "mcpd",
-          "mcms",
           {
             "group": "MC Bros",
             "icon": "user-friends",
             "hidden": true,
             "pages": []
-          }
+          },
+          "court",
+          "mcpd",
+          "mcms"
         ]
       },
       {
