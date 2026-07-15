@@ -53,10 +53,11 @@
         "icon": "bank",
         "pages": [
           {
-            "group": "MC Bros",
-            "icon": "user-friends",
-            "hidden": true,
-            "pages": []
+            "group": "Club Rules",
+            "icon": "user-group",
+            "pages": [
+              "club-rules"
+            ]
           },
           "court",
           "mcpd",
