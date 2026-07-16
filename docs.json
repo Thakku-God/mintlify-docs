@@ -73,7 +73,8 @@
           "gang-situation-rule",
           "gang-war",
           "gang-assets"
-        ]
+        ],
+        "hidden": true
       },
       {
         "group": "FIVEM & BUG'S",
